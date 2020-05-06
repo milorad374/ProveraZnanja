@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<magacin>
+   <artikal>
+        <Naziv  sifra="1"> Jogurt</naziv>
+        <datumIzrade>
+            <dan>4</dan>
+            <mesec>6</mesec>
+            <godina>2019</godina>
+        </datumIzrade>
+        <cena  valuta ="evro"> 1  </cena>
+        <kompanijaProdavca>
+            <imeKompanije>Imlek</imeKompanije>
+            <adresa>Vojvode Sime 12</adresa>
+            <adresa>Karla Marksa 31</adresa>
+        </kompanijaProdavca>
+        <emailProdavnica tip="prvi"> imlek@gmail.com</emailProdavnica>
+        <emailProdavnica tip="drugi"> imlekdrugi@gmail.com</emailProdavnica>
+    </artikal>
+
+    <artikal>
+        <Naziv sifra="2">Napolitanke</naziv>
+        <datumIzrade>
+            <dan>14</dan>
+            <mesec>2</mesec>
+            <godina>2020</godina>
+        </datumIzrade>
+        <cena  valuta ="rsd"> 89   </cena>
+        <kompanijaProdavca>
+            <imeKompanije>Jafa</imeKompanije>
+            <adresa>Vojvode Stepe 13</adresa>
+            <adresa>Karla Marksa 20</adresa>
+        </kompanijaProdavca>
+        <emailProdavnica tip="prvi"> jafa@gmail.com</emailProdavnica>
+        <emailProdavnica tip="drugi"> jafadrugi@gmail.com</emailProdavnica>
+    </artikal>
+</magacin>
