@@ -12,4 +12,4 @@
 <!ELEMENT adresa (#PCDATA)>
 <!ATTLIST Naziv sifra ID #REQUIRED>
 <!ATTLIST cena valuta (evro | rsd) "rsd">
-<!ATTLIST emailProdavnica tip (prvi | drugi) #REQUIRED>
+<!ATTLIST emailProdavnica tip (prvi | drugi) #REQUIRED> 
